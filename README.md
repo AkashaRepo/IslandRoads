@@ -2,7 +2,8 @@ Take me home, country roads, except it's about Orcas Island instead of west Virg
 
 One of the local Jam bands needs to do this, It will be an even bigger hit than take Walk on the Wild side.
 
-* TODO New lyrics
+#### TODO New lyrics ####
+```
 Almost heaven, Orcas Island
 Turtleback Mountain, _ _ _ _ River? (No rivers on orcas, perhaps one of the lakes?)
 Life is old there, older than the trees
@@ -33,8 +34,9 @@ Oracs Island, Salish mama
 Take me home, Island roads
 Take me home, down Island roads
 Take me home, down Island roads
-
-* Old lyrics
+```
+#### Old lyrics ####
+```
 Almost heaven, West Virginia
 Blue Ridge Mountains, Shenandoah River
 Life is old there, older than the trees
@@ -65,3 +67,4 @@ West Virginia, mountain mama
 Take me home, country roads
 Take me home, down country roads
 Take me home, down country roads
+````
